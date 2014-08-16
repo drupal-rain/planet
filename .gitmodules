@@ -1,0 +1,4 @@
+[submodule "modules/base/admin_menu"]
+	path = modules/base/admin_menu
+	url = https://github.com/drupalprojects/admin_menu.git
+	branch = 7.x-3.x
