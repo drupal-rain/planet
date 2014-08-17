@@ -15,3 +15,7 @@
 	url = https://github.com/drupalprojects/eck.git
 	branch = 7.x-2.x
     
+[submodule "modules/dev/devel"]
+	path = modules/dev/devel
+	url = https://github.com/drupalprojects/devel.git
+	branch = 7.x-1.x
