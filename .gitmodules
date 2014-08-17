@@ -29,8 +29,21 @@
 	branch = 7.x-1.x
 [submodule "themes/admin/shiny"]
 	path = themes/admin/shiny
-	url = https://github.com/drupalprojects/schema.git
+	url = https://github.com/drupalprojects/shiny.git
 	branch = 7.x-1.x
 [submodule "modules/dev/ktools"]
 	path = modules/dev/ktools
 	url = https://github.com/drupal-rain/ktools.git
+    branch = 7.x-1.x
+[submodule "modules/dev/devel_themer"]
+	path = modules/dev/devel_themer
+	url = https://github.com/drupalprojects/devel_themer.git
+	branch = 7.x-1.x
+[submodule "modules/dev/elements"]
+	path = modules/dev/elements
+	url = https://github.com/drupalprojects/elements.git
+	branch = 7.x-1.x
+[submodule "modules/dev/registry_rebuild"]
+	path = modules/dev/registry_rebuild
+	url = https://github.com/drupalprojects/registry_rebuild.git
+	branch = 7.x-2.x
