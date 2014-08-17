@@ -31,3 +31,6 @@
 	path = themes/admin/shiny
 	url = https://github.com/drupalprojects/schema.git
 	branch = 7.x-1.x
+[submodule "modules/dev/ktools"]
+	path = modules/dev/ktools
+	url = https://github.com/drupal-rain/ktools.git
