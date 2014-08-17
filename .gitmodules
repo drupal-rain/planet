@@ -27,3 +27,7 @@
 	path = modules/dev/schema
 	url = https://github.com/drupalprojects/schema.git
 	branch = 7.x-1.x
+[submodule "themes/admin/shiny"]
+	path = themes/admin/shiny
+	url = https://github.com/drupalprojects/schema.git
+	branch = 7.x-1.x
