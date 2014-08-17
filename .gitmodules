@@ -2,3 +2,16 @@
 	path = modules/base/admin_menu
 	url = https://github.com/drupalprojects/admin_menu.git
 	branch = 7.x-3.x
+[submodule "modules/base/ctools"]
+	path = modules/base/ctools
+	url = https://github.com/drupalprojects/ctools.git
+	branch = 7.x-1.x
+[submodule "modules/base/ds"]
+	path = modules/base/ds
+	url = https://github.com/drupalprojects/ds.git
+	branch = 7.x-2.x
+[submodule "modules/base/eck"]
+	path = modules/base/eck
+	url = https://github.com/drupalprojects/eck.git
+	branch = 7.x-2.x
+    

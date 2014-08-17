@@ -8,6 +8,10 @@
 ## Base
 Base modules to construct a website.
 Usually blindly put modules that are over 100k usage in here.
+* [admin_menu](https://drupal.org/project/admin_menu)
+* [ctools](https://drupal.org/project/ctools)
+* [ds](https://drupal.org/project/ds)
+* [eck](https://drupal.org/project/eck)
 
 ## Common
 Common modules to construct a website.
