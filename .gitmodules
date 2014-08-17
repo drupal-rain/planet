@@ -14,8 +14,16 @@
 	path = modules/base/eck
 	url = https://github.com/drupalprojects/eck.git
 	branch = 7.x-2.x
-    
+
+[submodule "modules/dev/backup_migrate"]
+	path = modules/dev/backup_migrate
+	url = https://github.com/drupalprojects/backup_migrate.git
+	branch = 7.x-3.x
 [submodule "modules/dev/devel"]
 	path = modules/dev/devel
 	url = https://github.com/drupalprojects/devel.git
+	branch = 7.x-1.x
+[submodule "modules/dev/schema"]
+	path = modules/dev/schema
+	url = https://github.com/drupalprojects/schema.git
 	branch = 7.x-1.x

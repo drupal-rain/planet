@@ -26,4 +26,6 @@ Feature modules.
 
 ## Dev
 Highly related to developer usage(only).
+* [backup_migrate](https://drupal.org/project/backup_migrate)
 * [devel](https://drupal.org/project/devel)
+* [schema](https://drupal.org/project/schema)
